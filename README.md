@@ -1,4 +1,4 @@
-### Hola, soy Geovani Rivera 👋
+### Hello, I´m Geovani Rivera 👋
 - 🌱 I’m currently learning JavaScript and Html
 
 <!--
