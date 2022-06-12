@@ -1,5 +1,5 @@
 ### Hola, soy Geovani Rivera 👋
-- 🌱 I’m currently learning JavaScript and HTML
+- 🌱 I’m currently learning JavaScript and Html
 
 <!--
 **geRivera/geRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
